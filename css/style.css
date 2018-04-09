@@ -1,0 +1,71 @@
+*body{
+	margin: 0;
+	height: 1000px;
+	font-family: arial;
+}
+
+/* start heade*/
+header{
+	
+}
+@media (max-width: 767px)  {  /*mobile table rules*/
+
+}
+@media(min-width: 768px){    /* small screen rules*/
+
+}
+@media(min-width: 992px){   /* medium screen rules*/
+
+}
+@media(min-width: 1200px){  /* large screen rules*/
+
+}
+/*end header*/
+/*-----------------------------------------------------------------------------------------------------------------------------------*/
+/*start main*/
+main{
+
+}
+
+@media (max-width: 767px)  {  /*mobile table rules*/
+
+}
+@media(min-width: 768px){    /* small screen rules*/
+
+}
+@media(min-width: 992px){   /* medium screen rules*/
+
+}
+@media(min-width: 1200px){  /* large screen rules*/
+
+}
+/*end main*/
+/*-----------------------------------------------------------------------------------------------------------------------------------*/
+/*start footer*/
+footer{
+
+
+}
+
+@media (max-width: 767px)  {  /*mobile table rules*/
+
+}
+@media(min-width: 768px){    /* small screen rules*/
+
+}
+@media(min-width: 992px){   /* medium screen rules*/
+
+}
+@media(min-width: 1200px){  /* large screen rules*/
+
+}
+/*end footer*/
+/*-----------------------------------------------------------------------------------------------------------------------------------*/
+/*start framework*/
+.container{
+
+}
+.text-align{
+	text-align: center;
+}
+/*end framework*/
